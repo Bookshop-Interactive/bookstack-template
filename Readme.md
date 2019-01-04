@@ -6,6 +6,9 @@
 
 # Behold the Bookstack!
 
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
 A curated fullstack starter project assembled by Bookshop interactive.
 
 ### Client
