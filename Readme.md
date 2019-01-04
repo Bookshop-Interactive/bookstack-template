@@ -1,8 +1,4 @@
 <p align="center">
-<<<<<<< HEAD
-  <br />
-=======
->>>>>>> 591a749a8d54d5282bd21e644d979b2f588a8eec
   <img src="https://raw.githubusercontent.com/Bookshop-Interactive/repo-pictures/master/bookstack-template/bookstackfull.svg?sanitize=true" alt="Bookstack Template Logo" height="150" />
   <br /><br />
 </p>
