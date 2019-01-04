@@ -3,7 +3,7 @@ const demoData = [
     title: 'Hello world!',
   },
   {
-    title: 'Hello world!',
+    title: 'Hello worlds!',
   },
 ];
 

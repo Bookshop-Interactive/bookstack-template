@@ -5,11 +5,11 @@
   "dependencies": {
     "apollo-boost": "^0.1.22",
     "graphql": "^14.0.2",
-    "next": "^7.0.2",
     "polished": "^2.3.0",
     "react": "^16.6.3",
     "react-apollo": "^2.3.2",
     "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
     "styled-components": "^4.1.2"
   },
@@ -32,6 +32,7 @@
   ],
   "devDependencies": {
     "@babel/core": "^7.1.6",
+    "@babel/plugin-syntax-jsx": "^7.2.0",
     "@storybook/addon-actions": "^4.0.9",
     "@storybook/addon-links": "^4.0.9",
     "@storybook/react": "^4.0.9",
