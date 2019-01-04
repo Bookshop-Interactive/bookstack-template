@@ -1,5 +1,4 @@
 <p align="center">
-  <br /><br />
   <img src="https://raw.githubusercontent.com/Bookshop-Interactive/repo-pictures/master/bookstack-template/bookstackfull.svg?sanitize=true" alt="Bookstack Template Logo" height="150" />
   <br /><br />
 </p>
