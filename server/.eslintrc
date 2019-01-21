@@ -3,7 +3,13 @@
   "plugins": [
     "babel"
   ],
+  "rules": {
+    "no-console": "off"
+  },
   "extends": ["eslint:recommended"],
+  "env": {
+    "node": true
+  },
   "parserOptions": {
     "sourceType": "module"
   }
